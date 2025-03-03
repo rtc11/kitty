@@ -1,4 +1,4 @@
-packadd vim-wordmotion
+" packadd vim-wordmotion
 
 set relativenumber
 set number
